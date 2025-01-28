@@ -8,10 +8,11 @@ Welcome to my GitHub profile! I'm a seasoned **Data Engineer** and **Software De
 
 ## 🌟 About Me
 
-- 🎓 **Education**:  Msc in Data Science at IU International University of Applied Sciences, Germany, B.E in Instrumentation Technology, India.  
+  
  
 - 🏢 **Professional Background**: Over five years of experience as a Data Engineer and Software Developer, with expertise in scalable cloud architectures, microservices, and big data solutions.  
-- 🌱 **Lifelong Learner**: Passionate about staying at the forefront of technology, continuously honing my skills in data engineering, cloud computing, and AI.  
+- 🌱 **Lifelong Learner**: Passionate about staying at the forefront of technology, continuously honing my skills in data engineering, cloud computing, and AI.
+- 🎓 **Education**:  Msc in Data Science at IU International University of Applied Sciences, Germany, B.E in Instrumentation Technology, India.
 - 🌍 **Languages**: Multilingual in English, Kannada, Hindi, Telugu, and German (Learning).  
 - 🎖️ **Awards**: Recognized with accolades such as Best New Recruit, Stellar Team Member, and Rising Star for exceptional contributions.
  
