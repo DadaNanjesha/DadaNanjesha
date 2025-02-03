@@ -67,13 +67,13 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Develop
 ## 🚀 Featured Projects
 Explore some of my key projects showcasing expertise in **data engineering, AI, robotics, and cloud computing**:
 
-### 🤖 Robotics Simulator for Multi-Mobile Robots
-📌 *Simulation environment for testing intelligent robot navigation and path planning.*  
-🔗 [View Repository](https://github.com/DadaNanjesha/robotics)
-
 ### 🐦 Twitter Search API
 📌 *Developed a robust API for searching and analyzing tweets, with advanced filtering options.*  
 🔗 [View Repository](https://github.com/DadaNanjesha/Twitter-Search-API)
+
+### 🤖 Obstacles Avoiding Robot Simulator Project
+📌 *Simulation environment for testing intelligent robot navigation and path planning.*  
+🔗 [View Repository](https://github.com/DadaNanjesha/robotics)
 
 ### 🔍 Case Study: Model Engineering
 📌 *Comprehensive case study on engineering machine learning models with real-world datasets.*  
