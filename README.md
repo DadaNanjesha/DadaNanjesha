@@ -1,6 +1,7 @@
 # 🚀 About Me - Dada Nanjesha Gouda Shanbog
 
 ## 👋 Hello, I'm Dada Nanjesha!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DadaNanjesha&label=Profile%20views&color=0e75b6&style=flat" alt="DadaNanjesha" /> </p>
 
 Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Developer, and Robotics Researcher** with over **five years of experience** in designing **scalable cloud architectures, data pipelines, and intelligent robotics systems**. My journey spans diverse industries, startups, and cutting-edge technologies, where I have built impactful solutions that drive innovation.
 
