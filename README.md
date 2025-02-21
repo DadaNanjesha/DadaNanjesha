@@ -84,8 +84,8 @@ Explore some of my key projects showcasing expertise in **data engineering, AI, 
 ## 🌍 Network & Collaboration
 
 💼 **LinkedIn**: [Dada Nanjesha Gouda Shanbog](https://www.linkedin.com/in/dadananjeshags/)  
-🌐 **Portfolio**: [My GitHub](https://github.com/DadaNanjesha)  
-📩 **Contact**: Connect on **LinkedIn** for inquiries and collaborations.
+🌐 **Portfolio**: [Dada Nanjesha Gouda Shanbog](https://dadananjeshags.onepage.me/)  
+📩 **Contact**: Connect on **Portfolio** for inquiries and collaborations.
 
 🚀 **Always open to discussing new ideas, collaborations, and research projects!**
 
