@@ -63,24 +63,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Develop
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=radical)
 
----
 
-## 🚀 Featured Projects
-Explore some of my key projects showcasing expertise in **data engineering, AI, robotics, and cloud computing**:
-
-### 🐦 Twitter Search API
-📌 *Developed a robust API for searching and analyzing tweets, with advanced filtering options.*  
-🔗 [View Repository](https://github.com/DadaNanjesha/Twitter-Search-API)
-
-### 🤖 Obstacles Avoiding Robot Simulator Project
-📌 *Simulation environment for testing intelligent robot navigation and path planning.*  
-🔗 [View Repository](https://github.com/DadaNanjesha/robotics)
-
-### 🔍 Case Study: Model Engineering
-📌 *Comprehensive case study on engineering machine learning models with real-world datasets.*  
-🔗 [View Repository](https://github.com/DadaNanjesha/CASE_STUDY_MODEL_ENGINEERING)
-
----
 
 ## 🌍 Network & Collaboration
 
