@@ -63,6 +63,15 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Develop
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=dark) [![GitHub Streak](https://streak-stats.demolab.com?user=DadaNanjesha&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=dark" alt="Your GitHub Stats" style="width: 48%;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DadaNanjesha&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 48%;">
+  </a>
+</div>
+
+
+
 ## 🌍 Network & Collaboration
 
 💼 **LinkedIn**: [Dada Nanjesha Gouda Shanbog](https://www.linkedin.com/in/dadananjeshags/)  
