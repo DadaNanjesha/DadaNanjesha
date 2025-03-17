@@ -61,7 +61,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Develop
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=dark&border_radius=4) [![GitHub Streak](https://streak-stats.demolab.com/?user=DadaNanjesha&theme=dark)](https://git.io/streak-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=dark&border_radius=4) 
+![GitHub stats](https://streak-stats.demolab.com/?user=DadaNanjesha&theme=dark)
 
 ## 🌍 Network & Collaboration
 
