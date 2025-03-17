@@ -1,20 +1,15 @@
-# 🚀 About Me - Dada Nanjesha Gouda Shanbog
-
-## 👋 Hello, I'm Dada Nanjesha!
+# 😎Dada Nanjesha Gouda Shanbog 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DadaNanjesha&label=Profile%20views&color=0e75b6&style=flat" alt="DadaNanjesha" /> </p>
+
+**Data Engineer | Software Developer | Robotics Researcher**
+
 
 Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Developer, and Robotics Researcher** with over **five years of experience** in designing **scalable cloud architectures, data pipelines, and intelligent robotics systems**. My journey spans diverse industries, startups, and cutting-edge technologies, where I have built impactful solutions that drive innovation.
 
 ---
 
 ## 🌟 Professional Snapshot
-
 - 🏢 **Professional Background**: Extensive experience in data engineering, cloud computing, and software development.
-- 🎓 **Education**: MSc in **Data Science** (IU International University of Applied Sciences, Germany), BE in **Instrumentation Technology** (India).
-- 🌍 **Languages**: English, Kannada, Hindi, Telugu, German (Learning).
-- 🏆 **Awards**: Honored with titles such as **Best New Recruit, Stellar Team Member, and Rising Star** for exceptional contributions.
-##  🔭 **Currently**
-- 🤖 **Current Focus**: Conducting research on **multi-mobile robot simulators** at **BOSCH**, integrating robotics with AI and data science.
 - 🚀 **Technical Expertise**: Cloud Computing, ETL Pipelines, Big Data Processing, Backend Development, Python, AI, and Robotics.
 - 🛠️ **Focus Areas**: Research & Development, Cloud computing, ETL pipelines, big data processing, and Backed Application development/Python projects, robotics, AI, and data science.
 
@@ -23,12 +18,23 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Develop
 ## 🔥 Skills & Technologies
 
 ### 🖥️ Programming Languages
-✔ Python, R, SQL, PySpark  
-✔ JavaScript, HTML5, CSS, Bootstrap
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 ### ☁️ Cloud & DevOps
-✔ **Microsoft Azure**: Azure Functions, Databricks, Synapse, Logic Apps, Cosmos DB  
-✔ Docker, Jenkins, CI/CD Pipelines, Azure DevOps
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge&logo=circleci&logoColor=white" alt="CI/CD Pipelines" />
+</p>
 
 ### 🛠️ Data Engineering
 ✔ ETL Pipelines, Data Lake Storage, PostgreSQL, Oracle SQL, HDFS, Spark Streaming
@@ -46,17 +52,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Develop
 ### 🗂️ Version Control & Agile Tools
 ✔ Git, Azure Repos, Bitbucket  
 ✔ Agile Boards, Jira
-
----
-
-## 🏆 Career Highlights
-
-### 🛠️ **Key Projects & Achievements**
-- 🚀 **Designed and implemented scalable cloud architectures**, optimizing cost and boosting efficiency.
-- 🤖 **Developed intelligent robotic simulators** for real-time navigation and path planning.
-- 📈 **Built ETL pipelines and big data solutions** using **Spark, Azure, and Pandas** for processing large-scale datasets.
-- 🌍 **Optimized web applications and microservices**, improving performance and scalability.
-- 🏅 **Received multiple awards** for outstanding contributions in software development and data engineering.
 
 ---
 
