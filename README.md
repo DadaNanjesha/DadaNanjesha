@@ -7,14 +7,6 @@
 Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Developer, and Robotics Researcher** with over **five years of experience** in designing **scalable cloud architectures, data pipelines, and intelligent robotics systems**. My journey spans diverse industries, startups, and cutting-edge technologies, where I have built impactful solutions that drive innovation.
 
 ---
-
-## 🌟 Professional Snapshot
-- 🏢 **Professional Background**: Extensive experience in data engineering, cloud computing, and software development.
-- 🚀 **Technical Expertise**: Cloud Computing, ETL Pipelines, Big Data Processing, Backend Development, Python, AI, and Robotics.
-- 🛠️ **Focus Areas**: Research & Development, Cloud computing, ETL pipelines, big data processing, and Backed Application development/Python projects, robotics, AI, and data science.
-
----
-
 ## 🔥 Skills & Technologies
 
 ### 🖥️ Programming Languages
@@ -56,9 +48,12 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Develop
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=dark&border_radius=4) 
-![GitHub stats](https://streak-stats.demolab.com/?user=DadaNanjesha&theme=dark)
-
+<!--   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=dark&border_radius=4) 
+  ![GitHub stats](https://streak-stats.demolab.com/?user=DadaNanjesha&theme=dark) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=dark&border_radius=4" alt="Your GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=DadaNanjesha&theme=dark" alt="GitHub stats" />
+</div>
 ## 🌍 Network & Collaboration
 
 💼 **LinkedIn**: [Dada Nanjesha Gouda Shanbog](https://www.linkedin.com/in/dadananjeshags/)  
