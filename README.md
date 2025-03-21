@@ -54,6 +54,9 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Develop
   <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=dark&border_radius=4" alt="Your GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=DadaNanjesha&theme=dark" alt="GitHub stats" />
 </div>
+
+---
+
 ## 🌍 Network & Collaboration
 
 💼 **LinkedIn**: [Dada Nanjesha Gouda Shanbog](https://www.linkedin.com/in/dadananjeshags/)  
