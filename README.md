@@ -4,7 +4,7 @@
 **Data Engineer | Software Developer |  Researcher**
 
 
-Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Developer, and Robotics Researcher** with over **five years of experience** in designing **scalable cloud architectures, data pipelines, and intelligent robotics systems**. My journey spans diverse industries, startups, and cutting-edge technologies, where I have built impactful solutions that drive innovation.
+Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Developer, and Researcher** with over **five years of experience** in designing **scalable cloud architectures, data pipelines, and intelligent robotics systems**. My journey spans diverse industries, startups, and cutting-edge technologies, where I have built impactful solutions that drive innovation.
 
 ---
 ## 🔥 Skills & Technologies
