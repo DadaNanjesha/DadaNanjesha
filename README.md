@@ -53,6 +53,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer, Software Develop
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&show_icons=true&theme=dark&border_radius=4" alt="Your GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=DadaNanjesha&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadaNanjesha&langs_count=8&theme=dark&layout=compact&hide=Jupyter%20Notebook" alt="GitHub stats" />
+  
 </div>
 
 ---
