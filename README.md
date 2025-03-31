@@ -4,8 +4,8 @@
 
 <div align="center">
   
-![Profile Scans](https://komarev.com/ghpvc/?username=DadaNanjesha&label=VIEWS&color=00FF41&style=flat)
-![Stellar Ratings](https://custom-icon-badges.demolab.com/github/stars/DadaNanjesha?color=FF00FF&style=flat&label=STELLAR+RATINGS&logo=rocket)
+![Profile Scans](https://komarev.com/ghpvc/?username=DadaNanjesha&label=VIEWS&color=5642f8&style=flat)
+![Stellar Ratings](https://custom-icon-badges.demolab.com/github/stars/DadaNanjesha?color=5642f8&style=flat&label=STELLAR+RATINGS&logo=rocket)
 
 </div>
 
