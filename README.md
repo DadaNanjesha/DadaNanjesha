@@ -42,13 +42,14 @@ END-TO-END DEVELOPMENT AND DEPLOYMENT.
   <img src="https://img.shields.io/badge/Jenkins-f8de42?style=for-the-badge&logo=jenkins&logoColor=black">
   <img src="https://img.shields.io/badge/CI/CD-f8de42?style=for-the-badge&logo=circleci&logoColor=black">
 </div>
-
+<!--
 ### <img src="https://media.giphy.com/media/12nvCPMiTfzq1W/giphy.gif" width="30"> Data Stream Protocols
 ```ascii
 ▓ ETL Pipeline Construction    ▓ Data Lake Architecture v4.2
 ▓ Spark Streaming Matrix       ▓ PostgreSQL/Oracle Engines
 ▓ HDFS Cluster Management      ▓ Real-time Data Processing
 ```
+-->
 
 ### <img src="https://media.giphy.com/media/26FmS6BRnPVPo2FDq/giphy.gif" width="30"> Visualization Matrix
 <div align="center">
