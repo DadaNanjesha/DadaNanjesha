@@ -5,7 +5,7 @@
 <div align="center">
   
 ![Profile Scans](https://komarev.com/ghpvc/?username=DadaNanjesha&label=VIEWS&color=00FF41&style=flat)
-![Stellar Ratings](https://custom-icon-badges.demolab.com/github/stars/DadaNanjesha?color=FF00FF&style=flat&label=STELLAR+RATINGS&logo=rocket)
+
 
 </div>
 
