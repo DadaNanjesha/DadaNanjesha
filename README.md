@@ -91,7 +91,7 @@ END-TO-END DEVELOPMENT AND DEPLOYMENT.
 
 <div align="center">
   
-| <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&theme=dark&show_icons=true&border_color=00ff00"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DadaNanjesha&theme=dark&border=00ff00"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&theme=dark&show_icons=true&border_color=00ff00"> | <img src="https://github-readme-streak-stats-livid-ten.vercel.app/?user=DadaNanjesha&theme=dark&border=00ff00"> |
 |:---:|:---:|
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadaNanjesha&theme=dark&layout=compact&hide=Jupyter%20Notebook"> 
 
