@@ -5,7 +5,7 @@
 <div align="center">
   
 ![Profile Scans](https://komarev.com/ghpvc/?username=DadaNanjesha&label=VIEWS&color=5642f8&style=flat)
-![Stellar Ratings](https://custom-icon-badges.demolab.com/github/stars/DadaNanjesha?color=5642f8&style=flat&label=STELLAR+RATINGS&logo=rocket)
+<!-- ![Stellar Ratings](https://custom-icon-badges.demolab.com/github/stars/DadaNanjesha?color=5642f8&style=flat&label=STELLAR+RATINGS&logo=rocket) -->
 
 
 </div>
@@ -21,6 +21,16 @@ END-TO-END DEVELOPMENT AND DEPLOYMENT.
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
+</div>
+
+## <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="40"> GITHUB Metrics
+
+<div align="center">
+  
+| <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&theme=dark&show_icons=true&border_color=00ff00"> | <img src="https://github-readme-streak-stats-livid-ten.vercel.app/?user=DadaNanjesha&theme=dark&border=00ff00"> |
+|:---:|:---:|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadaNanjesha&theme=dark&layout=compact&hide=Jupyter%20Notebook&border_color=00ff00"> | <img src="https://github-profile-trophy.vercel.app/?username=DadaNanjesha&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&column=3&row=2&border_color=00ff00">|
+<!--![Metrics](https://metrics.lecoq.io/DadaNanjesha?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config..timezone=Europe%2FBerlin) -->
 </div>
 
 ## <img src="https://media.giphy.com/media/XdUIqdJkC5Kfm/giphy.gif" width="40"> WHAT I  CAN DO ?
@@ -88,16 +98,7 @@ END-TO-END DEVELOPMENT AND DEPLOYMENT.
   <img src="https://img.shields.io/badge/Jira-f8de42?style=for-the-badge&logo=jira&logoColor=black">
 </div>
 
-## <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="40"> GITHUB Metrics
 
-<div align="center">
-  
-| <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&theme=dark&show_icons=true&border_color=00ff00"> | <img src="https://github-readme-streak-stats-livid-ten.vercel.app/?user=DadaNanjesha&theme=dark&border=00ff00"> |
-|:---:|:---:|
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadaNanjesha&theme=dark&layout=compact&hide=Jupyter%20Notebook"> 
-
-<!--![Metrics](https://metrics.lecoq.io/DadaNanjesha?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config..timezone=Europe%2FBerlin) -->
-</div>
 
 ## <img src="https://media.giphy.com/media/l3vQXZiBGhxBEALEk/giphy.gif" width="40"> Network Links
 
