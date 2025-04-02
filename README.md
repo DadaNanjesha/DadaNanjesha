@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=4000&pause=1000&color=f8de42&background=000000&center=true&vCenter=true&width=1400&lines=%F0%9F%94%A5++WELCOME TO MY+GITHUB PROFILE++%F0%9F%94%A5;%F0%9F%92%BB+DADA+NANJESHA+GOUDA+SHANBOG+%F0%9F%96%A5%EF%B8%8F;%F0%9F%9B%A8+DATA+ENGINEER+%7C+SOFTWARE+ARCHITECT+%7C+SYSTEMS+RESEARCHER+%F0%9F%94%A8" alt="Cyber Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=4000&pause=1000&color=f8de42&background=000000&center=true&vCenter=true&width=1400&lines=%F0%9F%94%A5++WELCOME TO MY+GITHUB PROFILE++%F0%9F%94%A5;%F0%9F%92%BB+DADA+NANJESHA+GOUDA+SHANBOG+%F0%9F%96%A5%EF%B8%8F;%F0%9F%9B%A8+DATA+ENGINEER+%7C+SOFTWARE+ENGINEER+%7C+SYSTEMS+RESEARCHER+%F0%9F%94%A8" alt="Cyber Header" />
 </p>
 
 <div align="center">
   
 ![Profile Scans](https://komarev.com/ghpvc/?username=DadaNanjesha&label=VIEWS&color=5642f8&style=flat)
 ![Stellar Ratings](https://custom-icon-badges.demolab.com/github/stars/DadaNanjesha?color=5642f8&style=flat&label=STELLAR+RATINGS&logo=rocket)
+
 
 </div>
 
@@ -42,13 +43,14 @@ END-TO-END DEVELOPMENT AND DEPLOYMENT.
   <img src="https://img.shields.io/badge/Jenkins-f8de42?style=for-the-badge&logo=jenkins&logoColor=black">
   <img src="https://img.shields.io/badge/CI/CD-f8de42?style=for-the-badge&logo=circleci&logoColor=black">
 </div>
-
+<!--
 ### <img src="https://media.giphy.com/media/12nvCPMiTfzq1W/giphy.gif" width="30"> Data Stream Protocols
 ```ascii
 ▓ ETL Pipeline Construction    ▓ Data Lake Architecture v4.2
 ▓ Spark Streaming Matrix       ▓ PostgreSQL/Oracle Engines
 ▓ HDFS Cluster Management      ▓ Real-time Data Processing
 ```
+-->
 
 ### <img src="https://media.giphy.com/media/26FmS6BRnPVPo2FDq/giphy.gif" width="30"> Visualization Matrix
 <div align="center">
@@ -90,7 +92,7 @@ END-TO-END DEVELOPMENT AND DEPLOYMENT.
 
 <div align="center">
   
-| <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&theme=dark&show_icons=true&border_color=00ff00"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DadaNanjesha&theme=dark&border=00ff00"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&theme=dark&show_icons=true&border_color=00ff00"> | <img src="https://github-readme-streak-stats-livid-ten.vercel.app/?user=DadaNanjesha&theme=dark&border=00ff00"> |
 |:---:|:---:|
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadaNanjesha&theme=dark&layout=compact&hide=Jupyter%20Notebook"> 
 
