@@ -29,7 +29,7 @@ END-TO-END DEVELOPMENT AND DEPLOYMENT.
   
 | <img src="https://github-readme-stats.vercel.app/api?username=DadaNanjesha&theme=dark&show_icons=true&border_color=00ff00"> | <img src="https://github-readme-streak-stats-livid-ten.vercel.app/?user=DadaNanjesha&theme=dark&border=00ff00"> |
 |:---:|:---:|
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadaNanjesha&theme=dark&layout=compact&hide=Jupyter%20Notebook&border_color=00ff00"> | <img src="https://github-profile-trophy.vercel.app/?username=DadaNanjesha&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&column=3&row=2&border_color=00ff00">|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadaNanjesha&theme=dark&layout=compact&hide=Jupyter%20Notebook&border_color=00ff00"> | <img src="https://github-profile-trophy-kohl.vercel.app/?username=DadaNanjesha&theme=onedark&column=3&row=2&border_color=00ff00border_color=00ff00">|
 <!--![Metrics](https://metrics.lecoq.io/DadaNanjesha?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config..timezone=Europe%2FBerlin) -->
 </div>
 
