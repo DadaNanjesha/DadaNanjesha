@@ -15,8 +15,8 @@
 ```ascii
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 BUILDING SOFTWARE DATA SYSTEMS SINCE 2018,
-DEPLOYED SOLUTIONS ACROSS DIFFERENT INDUSTRIAL SECTORS
-A DIGITAL SOFTWARE VENTURING THROUGH THE REALMS OF DATA AND CODE,
+DEPLOYED SOLUTIONS ACROSS DIFFERENT INDUSTRIAL SECTORS,
+A DIGITAL SOFTWARE VENTURING THROUGH THE REALMS OF DATA AND CODE
 END-TO-END DEVELOPMENT AND DEPLOYMENT.
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
